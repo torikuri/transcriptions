@@ -4,7 +4,6 @@ title: Browse the Collection
 permalink: /collection/
 ---
 
-This site's sample collection comprises a set of objects, each of which is represented by one or more images. The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+This site contains transcriptions I've created over several years dabbling in music, mostlly as I was learnig to play upright bass switching from guitar becuase among the circle of friends I played with, we had an abundance of guitar players and no bass players, and I've always loved the sound, and later learned I loved the feel as well. Most of the transcriptions are unfinished and mostly used as learning aids to study a particular song or chord progression, or even movement around the fingerboard. 
 
-
-{% include collection_gallery.html collection='qatar' facet_by='object_type' %}
+{% include collection_gallery.html collection='transcriptions' facet_by='instrument' %}
