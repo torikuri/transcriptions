@@ -122,8 +122,6 @@ footer:
       link: 'https://github.com/torikuri/transcriptions'
     - label: 'Credits'
       link: '/credits'
-    - label: 'Contact'
-      link: '"/credits"'
   logos:
     - img: '/img/logo.png'
 
