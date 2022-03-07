@@ -123,7 +123,7 @@ footer:
     - label: 'Credits'
       link: '/credits'
     - label: 'Contact'
-      link: '<a href="mailto:admin@eight2one.net">Contact</a>'
+      link: '"/credits"'
   logos:
     - img: '/img/logo.png'
 
