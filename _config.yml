@@ -119,7 +119,7 @@ menu:
 footer:
   links:
     - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
+      link: 'https://github.com/torikuri/transcriptions'
     - label: 'Credits'
       link: '/credits'
     - label: 'Contact'
